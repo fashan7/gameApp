@@ -1,0 +1,1 @@
+This is a basic Game App which displays a lists of small mini games. It is done using Retrofit webservice and Image render was used the Glide library.
